@@ -9,6 +9,8 @@ Once built, the executables can be found in the **Debug** folder of your
 Visual Studio project. You can then paste them into **C:\Windows** or
 **C:\Windows\System32** so that they can be run anywhere in the command prompt.
 
+This is a low-priority project so I'll work on it when I have free time.
+
 ## Progress
 
 Implemented ls.exe without options
@@ -16,5 +18,7 @@ Implemented ls.exe without options
 ## TODO
 
 Implement touch.exe w/o options
+
 Implement rm.exe w/o options
+
 Implement some options

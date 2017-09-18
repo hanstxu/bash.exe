@@ -20,21 +20,23 @@ This is a low-priority project so I'll work on it when I have free time.
 ## How to Use
 
 Once built, the executables can be found in the **Debug** folder of your
-Visual Studio project. You can then paste them into **C:\Windows** or
-**C:\Windows\System32** so that they can be run anywhere in the command prompt.
+Visual Studio project or from **ls_touch.zip** in
+[release v0.1.0](https://github.com/hanstxu/bash.exe/releases). You can then
+paste them into **C:\Windows** or **C:\Windows\System32** so that they can be
+run anywhere in the command prompt.
 
-Build the executables.
+1. Build the executables.
 
-![dir](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_build.gif)
+![bash_build](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_build.gif)
 
-Move the executables to a PATH folder (e.g. **C:\Windows** or
+2. Move the executables to a PATH folder (e.g. **C:\Windows** or
 **C:\Windows\System32**).
 
-![dir](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_move.gif)
+![bash_move](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_move.gif)
 
-Run the executables.
+3. Run the executables.
 
-![dir](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_example.gif)
+![bash_example](https://github.com/hanstxu/bash.exe/blob/master/screenshots/bash_example.gif)
 
 ## Progress
 
